@@ -1,0 +1,4 @@
+Kürzel;Fachbereich;Anzahl Studenten
+MIB;Medientechnik Bachelor;60
+MKB;Medienkommunikation Bachelor;40
+OMB;Onlinemedien Bachelor;50

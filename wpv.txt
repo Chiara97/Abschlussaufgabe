@@ -1,0 +1,19 @@
+Block;Tag;Beginn;Vorlesung;Dozent
+Mo1;Montag;07:45;3D Character Production;David Lochmann
+Mo1;Montag;07:45;Computerspielanalyse / Narration in Games;Beate Ehrmann
+Mo5;Montag;15:45;CRM und E-Commerce im Multichannel-Kontext;Prof. Paul Maciejewski
+Mo5;Montag;15:45;Crossmediale Medienproduktion;Ada Rhode
+Di3;Dienstag;11:15;Designmanagement & Digital Enterprise;Martin Dege
+Di3;Dienstag;11:15;Digital Set Extension in professionellen VFX Shots;Rainer Duda
+Mi2;Mittwoch;09:30;Gamedesign Workshop;Prof. Jirka Dell'Oro-Friedl
+Mi2;Mittwoch;09:30;Introduction to Deep Learning;Prof. Dr. Ruxandra Lasowski
+Do1;Donnerstag;07:45;Live GLFtv;Ada Rhode
+Do3;Donnerstag;11:15;Livemix und Sounddesign;Prof. Matthias Reusch
+Fr1;Freitag;07:45;Media Planning und Marketing Automation;Oliver Schmitt
+Fr1;Freitag;07:45;Photographie;Prof. Christian Fries
+Fr2;Freitag;09:30;Projektmanagement in Softwareprojekten;Phillipp Reif
+Fr2;Freitag;09:30;Recht der digitalen Medien und Medienethik;Marion Plum
+Fr4;Freitag;14:00;SEO,Affiliate und Influencer Marketing;Michael Firnkes
+Fr4;Freitag;14:00;Spieleentwicklung;Prof. Jirka Dell'Oro-Friedl
+Fr5;Freitag;15:45;Typografie 1;Sören Comes
+Fr5;Freitag;15:45;Zeichen 1;Dirk Görtler

@@ -1,0 +1,27 @@
+Dozent;;Mo1;Mo2;Mo3;Mo4;Mo5;Di1;Di2;Di3;Di4;Di5;Mi1;Mi2;Mi3;Mi4;Mi5;Do1;Do2;Do3;Do4;Do5;Fr1;Fr2;Fr3;Fr4;Fr5
+Achim Herbstreit;x;x;x;x;x;x;x;x;x;x;x;x;;x;x;x;x;x;x;x;x;x;x;x;x
+Carolin Eckl;x;x;x;x;x;x;;;;;;;x;x;x;x;x;;;;;;;x;x
+Caroline Knoch;x;;;x;x;x;x;x;x;x;x;x;;;x;x;x;x;x;x;x;x;x;x;x
+Dr. Herbert Geisler;x;x;x;x;x;x;x;x;x;x;x;x;;;;;;;x;x;x;x;x;x;x
+Prof. Christian Fries;;;;;;;;;;;;;x;x;x;;x;x;x;x;;x;x;x;x
+Prof. Christoph Müller;x;x;x;x;x;x;x;x;x;x;x;x;;;;;;;x;x;x;x;x;x;x
+Prof. Dr. Gotthard Pietsch;x;x;x;x;x;x;;;x;x;x;x;;;x;x;x;x;x;;;x;x;x;x
+Prof. Dr. Christoph Zydorek;;;;;;;x;x;x;x;x;x;x;x;x;x;x;;;;;;;x;x
+Prof. Dr. Dirk Eisenbiegler;x;x;x;x;x;;;x;x;x;x;x;;;;;;;x;x;x;x;x;x;x
+Prof. Dr. Jürgen Anders;x;x;x;x;x;x;;;;;;;x;x;x;x;x;x;x;;;x;x;x;x
+Prof. Dr. Michael Waldowski;x;x;x;x;x;x;;;x;x;x;x;x;;;x;x;x;x;x;x;x;x;x;x
+Prof. Dr. Ruxandra Lasowski;;;;;;;;;;;;;x;x;x;x;x;x;x;;;x;x;x;x
+Prof. Dr. Thomas Schneider;x;x;x;x;x;x;x;x;x;x;x;x;;;;;;;x;x;x;x;x;x;x
+Prof. Dr. Ullrich Dittler;x;;;x;x;x;;;x;x;x;x;x;x;x;x;x;;;;;;;x;x
+Prof. Jirka Dell'Oro-Friedl;x;x;x;x;x;x;;;;;;;x;x;x;x;x;;;;;;;x;x
+Prof. Matthias Reusch;;;;;;;x;x;x;x;x;x;x;;;x;x;x;x;x;x;x;x;x;x
+Prof. Nikolaus Hottong;x;x;x;x;x;x;x;;;x;x;x;;;;;;;x;x;x;x;x;x;x
+Prof. Thomas Krach;x;;;x;x;x;;;x;x;x;x;x;x;x;x;x;x;x;x;;;x;x;x
+Timo Dufner;x;x;x;x;x;x;;;;;;;x;x;;;x;x;x;x;;;x;x;x
+Markus Matt;x;x;x;x;x;x;;;;;;;x;x;;;x;x;x;x;;;x;x;x
+Prof. Dr. Matthias Schulten;x;x;x;x;x;x;;;;;;;x;x;;;x;x;x;x;;;x;x;x
+Prof. Dr. Oliver Ruf;x;x;x;x;x;x;;;;x;;;x;x;;;x;x;x;x;;;x;x;x
+Prof. Dr. Wolfgang Taube;x;x;x;x;x;x;;;;;;;x;x;;;x;x;x;x;;;x;x;x
+Prof. Dr. Regina Friess;x;x;x;x;x;x;;x;x;x;;;x;x;;;x;x;x;x;;;x;x;x
+Prof. Martin Aichele;x;x;x;x;x;x;;;;x;;;x;x;;;x;x;x;x;;;x;x;x
+Keine Angabe;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x

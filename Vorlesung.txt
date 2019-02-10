@@ -1,0 +1,119 @@
+Kürzel;Fachbereich;Semester;Vorlesung;Beschreibung;Dozent;Anzahl Plätze
+MIB102;MIB;1;Grundlagen der Betriebswirtschaftslehre;Blabla;Achim Herbstreit;42
+MIB103;MIB;1;Grundlagen der Unternehmensgründung;Blabla;Achim Herbstreit;42
+MIB104;MIB;1;Mediengestaltung;Blabla;Prof. Christian Fries;42
+MIB105;MIB;1;Mediengestaltung Praktikum;Blabla;Prof. Christian Fries;42
+MIB111;MIB;1;Programmierung;Blabla;Prof. Dr. Dirk Eisenbiegler;42
+MIB112;MIB;1;Programmierung Praktikum;Blabla;Prof. Dr. Dirk Eisenbiegler;42
+MIB106;MIB;1;Mathematik in Medien und Informatik;Blabla;Prof. Dr. Thomas Schneider;42
+MIB107;MIB;1;Physik in Medien und Informatik;Blabla;Prof. Dr. Thomas Schneider;42
+MIB108;MIB;1;MINT-Praktikum;Blabla;Prof. Dr. Thomas Schneider;42
+MIB101;MIB;1;Audiotechnik;Blabla;Prof. Matthias Reusch;42
+MIB109;MIB;1;Medientechnik Praktikum;Blabla;Prof. Nikolaus Hottong;42
+MIB110;MIB;1;Videotechnik;Blabla;Prof. Nikolaus Hottong;42
+MIB209;MIB;2;User Experience Design Seminar;Blabla;Carolin Eckl;21
+MIB201;MIB;2;Computergrafik;Blabla;Prof. Christoph Müller;21
+MIB202;MIB;2;Computergrafik Praktikum;Blabla;Prof. Christoph Müller;21
+MIB205;MIB;2;Marketing;Blabla;Prof. Dr. Christoph Zydorek;21
+MIB208;MIB;2;Medienökonomie;Blabla;Prof. Dr. Christoph Zydorek;21
+MIB206;MIB;2;Mathematik und Simulation;Blabla;Prof. Dr. Ruxandra Lasowski;21
+MIB207;MIB;2;Mathematik und Simulation Seminar;Blabla;Prof. Dr. Thomas Schneider;21
+MIB210;MIB;2;User Experience Design;Blabla;Prof. Thomas Krach;21
+MIB203;MIB;2;Grundlagen Interaktiver Systeme;Blabla;Timo Dufner;21
+MIB204;MIB;2;Grundlagen Interaktikver Systeme Praktikum;Blabla;Timo Dufner;21
+MIB410;MIB;4;Wissenschaftliches Arbeiten und Schreiben;Blabla;Caroline Knoch;14
+MIB405;MIB;4;Projekt 1;Blabla;Keine Angabe;14
+MIB406;MIB;4;Projektmanagement und Soft Skills;Blabla;Keine Angabe;14
+MIB409;MIB;4;Technische Informatik;Blabla;Prof. Dr. Dirk Eisenbiegler;14
+MIB404;MIB;4;Kommunikationssysteme;Blabla;Prof. Dr. Jürgen Anders;14
+MIB402;MIB;4;Grafische Datenverarbeitung;Blabla;Prof. Dr. Michael Waldowski;14
+MIB403;MIB;4;Grafische Datenverarbeitung Übung;Blabla;Prof. Dr. Michael Waldowski;14
+MIB401;MIB;4;Algorithmen und Datenstrukturen;Blabla;Prof. Dr. Ruxandra Lasowski;14
+MIB407;MIB;4;Softwaredesign Praktikum;Blabla;Prof. Jirka Dell'Oro-Friedl;14
+MIB408;MIB;4;Softwaredesign Seminar;Blabla;Prof. Jirka Dell'Oro-Friedl;14
+MIB506;MIB;5;Projekt 2;Blabla;Keine Angabe;11
+MIB501;MIB;5;Datenverarbeitung in der Medienproduktion;Blabla;Prof. Christoph Müller;11
+MIB503;MIB;5;Integrierte Post-Production Compositing und CG;Blabla;Prof. Christoph Müller;11
+MIB505;MIB;5;Online-Produktmanagement;Blabla;Prof. Dr. Gotthard Pietsch;11
+MIB504;MIB;5;Medienwirtschaft;Blabla;Prof. Dr. Christoph Zydorek;11
+MIB507;MIB;5;Verteilte Anwendung;Blabla;Prof. Dr. Dirk Eisenbiegler;11
+MIB502;MIB;5;Digitale AV-Technik;Blabla;Prof. Nikolaus Hottong;11
+MIB601;MIB;6;WPV 1;Blabla;Keine Angabe;15
+MIB701;MIB;7;Wissenschaftliches Arbeiten und Schreiben 2;Blabla;Dr. Herbert Geisler;27
+MKB102;MKB;1;Grundlagen der Betriebswirtschaftslehre;Blabla;Achim Herbstreit;41
+MKB103;MKB;1;Grundlagen der Betriebswirtschaftslehre;Blabla;Achim Herbstreit;41
+MKB104;MKB;1;Grundlagen Mediengestaltung;Blabla;Prof. Christian Fries;41
+MKB105;MKB;1;Grundlagen Mediengestaltung, Praktikum;Blabla;Prof. Christian Fries;41
+MKB111;MKB;1;Programmierung;Blabla;Prof. Dr. Dirk Eisenbiegler;41
+MKB106;MKB;1;Mathematik in Medien und Informatik;Blabla;Prof. Dr. Thomas Schneider;41
+MKB109;MKB;1;MINT-Praktikum;Blabla;Prof. Dr. Thomas Schneider;41
+MKB110;MKB;1;Physik in Medien und Informatik;Blabla;Prof. Dr. Thomas Schneider;41
+MKB107;MKB;1;Medienpsychologie;Blabla;Prof. Dr. Ullrich Dittler;41
+MKB101;MKB;1;Audiotechnik;Blabla;Prof. Matthias Reusch;41
+MKB108;MKB;1;Medientechnik Praktikum;Blabla;Prof. Nikolaus Hottong;41
+MKB112;MKB;1;Videotechnik;Blabla;Prof. Nikolaus Hottong;41
+MKB210;MKB;2;User Experience Design, Seminar;Blabla;Carolin Eckl;42
+MKB203;MKB;2;Computergrafik und 3D-Modellierung;Blabla;Prof. Christoph Müller;42
+MKB204;MKB;2;Computergrafik und 3D-Modellierung, Praktikum;Blabla;Prof. Christoph Müller;42
+MKB207;MKB;2;Marketing;Blabla;Prof. Dr. Christoph Zydorek;42
+MKB209;MKB;2;Medienökonomie;Blabla;Prof. Dr. Christoph Zydorek;42
+MKB208;MKB;2;Mathematische Grundlagen von Computergrafik und Gestaltung;Blabla;Prof. Dr. Thomas Schneider;42
+MKB205;MKB;2;Entwicklung Interaktiver Anwendungen;Blabla;Prof. Jirka Dell'Oro-Friedl;42
+MKB206;MKB;2;Entwicklung Interaktiver Anwendungen, Praktikum;Blabla;Prof. Jirka Dell'Oro-Friedl;42
+MKB201;MKB;2;AV-Produktion;Blabla;Prof. Martin Aichele;42
+MKB202;MKB;2;AV-Produktion, Praktikum;Blabla;Prof. Matthias Reusch;42
+MKB211;MKB;2;User Experience Design;Blabla;Prof. Thomas Krach;42
+MKB409;MKB;4;Wissenschaftliches Arbeiten und Schreiben;Blabla;Caroline Knoch;33
+MKB405;MKB;4;Projekt;Blabla;Keine Angabe;33
+MKB401;MKB;4;Ideenentwicklung;Blabla;Prof. Christian Fries;33
+MKB406;MKB;4;Projektmanagement und Soft Skills;Blabla;Prof. Dr. Gotthard Pietsch;33
+MKB402;MKB;4;Creative Writing;Blabla;Prof. Dr. Oliver Ruf;33
+MKB407;MKB;4;Storytelling;Blabla;Prof. Dr. Oliver Ruf;33
+MKB408;MKB;4;Textkonzeption;Blabla;Prof. Dr. Oliver Ruf;33
+MKB404;MKB;4;Konzeption;Blabla;Prof. Dr. Regina Friess;33
+MKB403;MKB;4;E-Learning und Online-Learning;Blabla;Prof. Dr. Ullrich Dittler;33
+MKB501;MKB;5;Ambient Media;Blabla;Keine Angabe;15
+MKB505;MKB;5;Projekt Teil 2;Blabla;Keine Angabe;15
+MKB503;MKB;5;Marketing-Mix in Medienunternehmen;Blabla;Prof. Dr. Gotthard Pietsch;15
+MKB504;MKB;5;Operatives Marketing;Blabla;Prof. Dr. Gotthard Pietsch;15
+MKB506;MKB;5;Zielgruppen und Rezeptionsverhalten;Blabla;Prof. Dr. Matthias Schulten;15
+MKB502;MKB;5;Interface Design;Blabla;Prof. Thomas Krach;15
+MKB601;MKB;6;WPV;Blabla;Keine Angabe;20
+MKB701;MKB;7;Wissenschaftliches Arbeiten und Schreiben;Blabla;Markus Matt;25
+OMB109;OMB;1;Grundlagen der Betriebswirtschaftslehre;Blabla;Achim Herbstreit;40
+OMB110;OMB;1;Grundlagen der Unternehmensgründung;Blabla;Achim Herbstreit;40
+OMB111;OMB;1;Grundlagen Mediengestaltung;Blabla;Prof. Christian Fries;40
+OMB112;OMB;1;Grundlagen Mediengestaltung, Praktikum;Blabla;Prof. Christian Fries;40
+OMB115;OMB;1;Medientechnik, Praktikum;Blabla;Prof. Dr. Michael Waldowski;40
+OMB113;OMB;1;Mathematik in Medien und Informatik;Blabla;Prof. Dr. Thomas Schneider;40
+OMB116;OMB;1;MINT-Praktikum;Blabla;Prof. Dr. Thomas Schneider;40
+OMB117;OMB;1;Physik in Medien und Informatik;Blabla;Prof. Dr. Thomas Schneider;40
+OMB119;OMB;1;Videotechnik;Blabla;Prof. Dr. Thomas Schneider;40
+OMB114;OMB;1;Medienpsychologie;Blabla;Prof. Dr. Ullrich Dittler;40
+OMB118;OMB;1;Programmierung;Blabla;Prof. Dr. Wolfgang Taube;40
+OMB108;OMB;1;Audiotechnik;Blabla;Prof. Matthias Reusch;40
+OMB210;OMB;2;User Experience Design, Seminar;Blabla;Carolin Eckl;28
+OMB203;OMB;2;Computergrafik und 3D-Modellierung, Praktikum;Blabla;Prof. Christoph Müller;28
+OMB204;OMB;2;Computergrafik und 3D-Modellierung;Blabla;Prof. Christoph Müller;28
+OMB208;OMB;2;Marketing;Blabla;Prof. Dr. Christoph Zydorek;28
+OMB209;OMB;2;Medienökonomie;Blabla;Prof. Dr. Christoph Zydorek;28
+OMB205;OMB;2;Geometrische und statistische Modellierung;Blabla;Prof. Dr. Thomas Schneider;28
+OMB206;OMB;2;Grundlagen Interaktiver Systeme;Blabla;Prof. Dr. Wolfgang Taube;28
+OMB207;OMB;2;Grundlagen Interaktiver Systeme, Praktikum;Blabla;Prof. Dr. Wolfgang Taube;28
+OMB201;OMB;2;AV-Produktion;Blabla;Prof. Martin Aichele;28
+OMB202;OMB;2;AV-Produktion, Praktikum;Blabla;Prof. Martin Aichele;28
+OMB211;OMB;2;User Experience Design;Blabla;Prof. Thomas Krach;28
+OMB408;OMB;4;Wissenschaftliches Arbeiten und Schreiben;Blabla;Caroline Knoch;34
+OMB404;OMB;4;Projekt Teil 1;Blabla;Keine Angabe;34
+OMB403;OMB;4;Medien- und Kommunikationswirtschaft;Blabla;Prof. Dr. Christoph Zydorek;34
+OMB402;OMB;4;Informatik;Blabla;Prof. Dr. Dirk Eisenbiegler;34
+OMB401;OMB;4;E-Business;Blabla;Prof. Dr. Gotthard Pietsch;34
+OMB405;OMB;4;Projektmanagement und Soft Skills;Blabla;Prof. Dr. Gotthard Pietsch;34
+OMB407;OMB;4;Webtechnologien;Blabla;Prof. Dr. Jürgen Anders;34
+OMB406;OMB;4;Responsive Web Design;Blabla;Prof. Thomas Krach;34
+OMB502;OMB;5;Online Design;Blabla;Keine Angabe;16
+OMB503;OMB;5;Projekt Teil 2;Blabla;Keine Angabe;16
+OMB504;OMB;5;Streaming-Anwendungen;Blabla;Prof. Nikolaus Hottong;16
+OMB501;OMB;5;Interface Design;Blabla;Prof. Thomas Krach;16
+OMB601;OMB;6;WPV;Blabla;Keine Angabe;20
+OMB701;OMB;7;Wissenschaftliches Arbeiten und Schreiben;Blabla;Markus Matt;25
